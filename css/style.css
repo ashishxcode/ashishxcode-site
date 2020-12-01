@@ -20,6 +20,7 @@ html {
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0px;
+  padding: 0px;
   color: var(--gray-900);
 }
 
@@ -48,7 +49,7 @@ section:nth-child(odd) {
 
 .heading {
   color: var(--gray-800);
-  line-height: 2rem;
+
   font-weight: 600;
   margin-top: 1rem;
   margin-bottom: 1rem;
