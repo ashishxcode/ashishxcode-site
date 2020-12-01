@@ -100,11 +100,12 @@ section:nth-child(odd) {
 .navigation ul {
   list-style: none;
   text-align: right;
+  padding: 0px;
 }
 
 .navigation li {
   display: inline-block;
-  padding: 0rem 0.5rem;
+  padding: 0rem 0.2rem;
 }
 
 .navigation .brand-name {
